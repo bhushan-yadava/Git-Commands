@@ -1,0 +1,23 @@
+17. git remote
+Manages remote repository connections.
+Example: git remote add origin https://github.com/user/repo.git
+
+
+18. git push
+Sends changes to a remote repository.
+Example: git push origin main
+
+
+19. git pull
+Fetches and merges changes from a remote repository.
+Example: git pull origin main
+
+
+20. git fetch
+Downloads changes from a remote repository without merging.
+Example: git fetch origin
+
+
+21. git remote -v
+Lists the URLs of remote repositories.
+Example: git remote -v
