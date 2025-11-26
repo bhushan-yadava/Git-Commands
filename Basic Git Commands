@@ -1,0 +1,52 @@
+Git is your code time machine. It tracks every change, enables team collaboration without conflicts, and lets you undo mistakes. These commands help manage source code versions
+like a professional developer.
+
+
+1. git init
+Initializes a new Git repository in the current directory.
+Example: git init
+
+
+2. git clone
+Copies a remote repository to the local machine.
+Example: git clone https://github.com/user/repo.git
+
+
+3. git status
+Displays the state of the working directory and staging area.
+Example: git status
+
+
+4. git add
+Adds changes to the staging area.
+Example: git add file.txt
+
+
+5. git commit
+Records changes to the repository.
+Example: git commit -m "Initial commit"
+
+
+6. git config
+Configures user settings, such as name and email.
+Example: git config --global user.name "Your Name"
+
+
+7. git log
+Shows the commit history.
+Example: git log
+
+
+8. git show
+Displays detailed information about a specific commit.
+Example: git show <commit-hash>
+
+
+9. git diff
+Shows changes between commits, the working directory, and the staging area.
+Example: git diff
+
+
+10. git reset
+Unstages changes or resets commits.
+Example: git reset HEAD file.txt
