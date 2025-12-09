@@ -1,0 +1,11 @@
+26. git tag 
+Creates a tag for a specific commit. 
+Example: git tag -a v1.0 -m "Version 1.0" 
+
+27. git tag -d 
+Deletes a tag. 
+Example: git tag -d v1.0 
+
+28. git push --tags 
+Pushes tags to a remote repository. 
+Example: git push origin --tags 
