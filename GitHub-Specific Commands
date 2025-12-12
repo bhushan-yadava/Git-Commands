@@ -1,0 +1,19 @@
+35. gh auth login 
+Logs into GitHub via the command line. 
+Example: gh auth login 
+
+36. gh repo clone 
+Clones a GitHub repository. 
+Example: gh repo clone user/repo 
+
+37. gh issue list 
+Lists issues in a GitHub repository. 
+Example: gh issue list 
+
+38. gh pr create 
+Creates a pull request on GitHub. 
+Example: gh pr create --title "New Feature" --body "Description of the feature" 
+
+39. gh repo create 
+Creates a new GitHub repository. 
+Example: gh repo create my-repo
