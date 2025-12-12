@@ -1,0 +1,23 @@
+29. git bisect 
+Finds the commit that introduced a bug. 
+Example: git bisect start 
+
+30. git blame 
+Shows which commit and author modified each line of a file. 
+Example: git blame file.txt 
+
+31. git reflog 
+Shows a log of changes to the tip of branches. 
+Example: git reflog 
+
+32. git submodule 
+Manages external repositories as submodules. 
+Example: git submodule add https://github.com/user/repo.git 
+
+33. git archive 
+Creates an archive of the repository files. 
+Example: git archive --format=zip HEAD > archive.zip 
+
+34. git gc 
+Cleans up unnecessary files and optimizes the repository. 
+Example: git gc 
